@@ -1,0 +1,3 @@
+Pedir una cantidad de dólares y
+pasarla a pesos (331.37), mostrando el resultado. 
+HACER UNA FUNCION llamada int ConvertirPesos(int cantidad) que devuelva el resultado

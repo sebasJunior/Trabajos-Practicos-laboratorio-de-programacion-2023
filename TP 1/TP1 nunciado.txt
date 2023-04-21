@@ -1,0 +1,15 @@
+Enunciado
+
+
+Dado un número entero, se desea determinar si el número es múltiplo
+de 3 o no.
+
+
+Entrada: La entrada, que se recibe por cin
+, consta de un único entero x
+
+
+Salida:  La salida, que se
+debe escribir por cout, constará de
+una única línea con el texto ES MULTIPLO si x es múltiplo de 3, o con el texto
+NO ES MULTIPLO en caso de que x no sea múltiplo de 3.

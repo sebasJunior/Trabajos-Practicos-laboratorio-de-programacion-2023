@@ -1,0 +1,5 @@
+Utilizar una función llamada float
+CalcularFahrenheit(int Celciuls);
+
+
+Para una conversión manual, ya sea de forma mental o con tu calculadora de Fahrenheit a grados centígrados la fórmula es:
